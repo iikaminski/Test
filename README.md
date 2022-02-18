@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iikaminski
-- 👀 I’m interested in Data Analysisfor behavior and law. 
+- 👀 I’m interested in Data Analysis for behavior and law. 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on I don´t now yet, because I´m training python, R and SQL. 
 - 📫 How to reach me: iikaminski@gmail.com
